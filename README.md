@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=infiniteoracles&label=Profile%20views&color=0e75b6&style=flat-square" alt="infiniteoracles" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=infiniteoracles&theme=darkhub&no-frame=true&margin-w=15" alt="infiniteoracles trophies" />
-</p>
-
 - 🔭 I’m currently working on [DropCloud](https://github.com/InfiniteOracles/DropCloud)
 
 - 🌱 I’m currently learning **Minecraft Modding**
