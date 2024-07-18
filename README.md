@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.gg/yourdiscordserver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" height="30" width="40" /></a>
+  <a href="https://discord.com/invite/4J4Sqg6Xy8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
-<p align="left">Join my Discord server to connect with me and the community: <a href="https://discord.com/invite/4J4Sqg6Xy8"> here</a></p>
+<p align="left">Join my Discord server to connect with me and the community<a href="https://discord.com/invite/4J4Sqg6Xy8"> here.</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
