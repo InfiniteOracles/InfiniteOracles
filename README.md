@@ -46,9 +46,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infiniteoracles&show_icons=true&locale=en&layout=compact" alt="infiniteoracles" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infiniteoracles&show_icons=true&locale=en&layout=compact&theme=dark" alt="infiniteoracles" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infiniteoracles&show_icons=true&locale=en" alt="infiniteoracles" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infiniteoracles&show_icons=true&locale=en&theme=dark" alt="infiniteoracles" />
 </p>
