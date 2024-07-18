@@ -2,7 +2,11 @@
 <h3 align="center">An Automation Expert, Web Developer, and Minecraft Modder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=infiniteoracles&label=Profile%20views&color=0e75b6&style=flat" alt="infiniteoracles" />
+  <img src="https://komarev.com/ghpvc/?username=infiniteoracles&label=Profile%20views&color=0e75b6&style=flat-square" alt="infiniteoracles" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=infiniteoracles&theme=darkhub&no-frame=true&margin-w=15" alt="infiniteoracles trophies" />
 </p>
 
 - 🔭 I’m currently working on [DropCloud](https://github.com/InfiniteOracles/DropCloud)
@@ -11,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add your social media links here -->
+  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://yourwebsite.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" alt="website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,10 +52,14 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infiniteoracles&show_icons=true&locale=en&layout=compact&theme=dark" alt="infiniteoracles" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infiniteoracles&show_icons=true&locale=en&layout=compact&theme=dark" alt="infiniteoracles" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infiniteoracles&show_icons=true&locale=en&theme=dark" alt="infiniteoracles" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=infiniteoracles&show_icons=true&locale=en&theme=dark" alt="infiniteoracles" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniteoracles&theme=dark" alt="infiniteoracles" />
 </p>
