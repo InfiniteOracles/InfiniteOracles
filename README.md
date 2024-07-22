@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Infiniteoracle</h1>
 <h3 align="center">An Automation Expert, Web Developer, and Minecraft Modder</h3>
+i use arch btw...
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=infiniteoracles&label=Profile%20views&color=0e75b6&style=flat-square" alt="infiniteoracles" />
