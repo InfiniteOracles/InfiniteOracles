@@ -6,7 +6,7 @@ i use arch btw...
   <img src="https://komarev.com/ghpvc/?username=infiniteoracles&label=Profile%20views&color=0e75b6&style=flat-square" alt="infiniteoracles" />
 </p>
 
-- 🔭 I’m currently working on [Nestri]([https://github.com/InfiniteOracles/DropCloud](https://github.com/nestriness/nestri))
+- 🔭 I’m currently working on [Nestri]((https://github.com/nestriness/nestri))
 - Setting it up I do not own it.
 - Please support the team behind it :D
 
